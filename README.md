@@ -32,7 +32,7 @@ $encodedString = $polylineEncoder->encodedString();
 ### Decode a polyline
 
 ```php
-$decodedPoints = PolylineEncoder::decodeString("_p~iF~ps|U_ulLnnqC_mqNvxq`@");
+$decodedPoints = PolylineEncoder::decodeValue("_p~iF~ps|U_ulLnnqC_mqNvxq`@");
 ```
 
 ### Note
